@@ -4,7 +4,7 @@
 The current project is displays the capabilities of flutter as a  !
 
 # namer
-🫨
+🤖
 Flutter is great at enabling developers to quickly create new user interfaces iteratively using the combination of hot reload and declarative UI. However, there comes a time when you need to add additional interactivity to an interface. These touches can be as simple as animating a button on hover or as dramatic as a shader that warps the user interface using the power of the GPU.
 
 
