@@ -1,7 +1,7 @@
 # name-suggester
 
 ## **Welcome Visitors!** 
-The current project is my first flutter project learned from google codlabs and need not to say it was damn **fun**!
+The current project is my first flutter project and need not to say it was damn **fun** making it!
 
 # namer
 🫨
